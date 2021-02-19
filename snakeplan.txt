@@ -1,0 +1,11 @@
+I am really stuck right now i have no idea what is involved
+Okay umm
+	- create border 
+	- create "snake" character
+	- randomly place "food" object
+	- Somehow create game that runs at like "60 FPS" (sleep function probs)
+	- Every, IDK, 15 frames(?), move snake 1 pixel (default right)
+	- If, before next movement frame, key is input, change direction
+	- After moving, check collision with wall, or food
+	- If wall, end game, if food:
+		- Figure out how to extend snake by 1 pixel
